@@ -1,4 +1,4 @@
-# Hello World
+# Hello World 🌏
 Aplicação para mostrar um pouco da minha carreira e compartilhar os meus projetos.
 
 
